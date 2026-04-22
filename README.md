@@ -1,4 +1,3 @@
-# Java
 #My first project: A small desktop game built with Java.
 
 #Dateien unter name/panitz/game/example/simple wurde von mir geschrieben.
